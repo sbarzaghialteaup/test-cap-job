@@ -1,6 +1,6 @@
 # Getting Started
 
-Example to use a db transaction not related to a http request, we use for to scheduled jobs.
+Example to use a CAP db transaction not related to a http request, we use for to scheduled jobs.
 
 Main code in [server.js](srv/server.js#L3)
 
