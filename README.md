@@ -1,6 +1,6 @@
 # Getting Started
 
-Example on code to get a db transaction not related to a http rquest, for example to scheduled jobs.
+Example to use a db transaction not related to a http request, we use for to scheduled jobs.
 
 Main code in [server.js](srv/server.js#L3)
 
